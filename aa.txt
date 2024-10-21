@@ -1,1 +1,1 @@
-"D:\bin\Qt\5.15.8\msvc2019\bin\windeployqt.exe" 
+"D:\bin\Qt\5.15.8\msvc2019\bin\windeployqt.exe" localB
